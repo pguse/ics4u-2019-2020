@@ -1,4 +1,4 @@
-```C#
+```csharp
 using System;
 
 namespace FirstProgram
