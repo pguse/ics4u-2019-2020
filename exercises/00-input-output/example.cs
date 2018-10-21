@@ -1,3 +1,4 @@
+```C#
 using System;
 
 namespace FirstProgram
@@ -18,3 +19,4 @@ namespace FirstProgram
         }
     }
 }
+```
