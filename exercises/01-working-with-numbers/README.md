@@ -1,5 +1,7 @@
 # Working with Numbers
 
+## Exercises
+
 ## 01-1: Student Average
 
 1.  In Visual Studio Code, create a folder called **StudentAverage** and then run the command dotnet new console in the terminal/console window. 
