@@ -21,6 +21,8 @@ When we need to store more than one value that is part of a group of values, we 
 
 Notice the use of indexes, from **lines 10 to 12** that are used to store values in the array, and on line 14 to access values in an array.
 
+## Exercises
+
 ## 03-1: Student Average
 
 1.  Modify the program so that it stores and averages 8 marks.
