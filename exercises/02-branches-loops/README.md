@@ -1,5 +1,7 @@
 # Branches and Loops
 
+## Exercises
+
 ## 02-1: Multiplication Table  
 Write a C# program that takes a number as input and prints its multiplication table.
 
