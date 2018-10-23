@@ -30,3 +30,6 @@ namespace StudentAverageArrayFunction
 Notice the creation of the function:  **Mean()**.  It has a few characteristics that need to be pointed out.  First, the word **static** is necessary but will be explained later.  More importantly, notice the **return type** ... in this case **float**.  Also notice that in this example there is one **parameter** required ... an **array of integers** called **a**.  The value of the calculation is returned from the function using the keyword **return**.  If you look in the **Main()** function, the **Mean()** function acts like a variable except that an array called marks is passed into it.  Its return value is output using the **WriteLine()** function.
 Functions can exist that do not return values.  An example is the **Main()** function we have been using in all our programs.  Its **return type** is **void** because there is no value returned from it.
 
+## Exercises
+
+## 04-1 
