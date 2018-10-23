@@ -1,6 +1,6 @@
 # Functions
 
-Our focus in this course is to create modular code.  One way we can accomplish this is to organize our code into functions.  Here is an example ***(see the given file - example.cs)*** of using a function in our student info. program:
+Our focus in this course is to create modular code.  One way we can accomplish this is to organize our code into functions.  Here is an example ***(see the given file - example.cs)*** of using a function in our student information program:
 
 ```csharp
 using System;
@@ -32,4 +32,20 @@ Functions can exist that do not return values.  An example is the **Main()** fun
 
 ## Exercises
 
-## 04-1 
+Create a folder called MyMath and a new console application within it.  Create the following functions and implement / use them in the Main() function.
+
+## 04-1: Slope
+Write a function called **Slope(int x1, int y1, int x2, int y2)** that calculates and **returns a float** representing the slope of a line passing through the points (x1,y1) and (x2,y2).
+
+## 04-2: Hypotenuse
+Write a function called **Hypotenuse(int a, int b)** that calculates and **returns a float** representing the hypotenuse of a right triangle with sides a and b.
+
+## 04-3: Distance
+Write a function called **Distance(int x1,int y1,int x2,int y2)** that calculates and **returns a float** representing the distance between the points (x1,y1) and (x2,y2).
+
+## 04-4: Prime
+Write a function called **IsPrime(num)** that determines whether a number num is prime and **returns a bool value** ... either **True or False** . 
+
+## 04-5: Greatest Common Divisor
+Write a function called **Gcd(int m,int n)** that **returns an int** representing the greatest common divisor of the numbers m and n, assuming m > n. The best-known algorithm for finding a greatest common divisor is Euclid’s Algorithm. Euclid’s Algorithm states that the greatest common divisor of two integers m and n is n if n divides m evenly. However, if n does not divide m evenly, then the answer is the greatest common divisor of n and the remainder of m divided by n.
+
