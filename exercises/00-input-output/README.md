@@ -2,6 +2,8 @@
 
 In these exercises you will use the **Console.WriteLine()** function to perform text output, the **Console.ReadLine()** function to get text input, and three variables to store three pieces of information.  You have also seen how to output the value of a variable within a string using the **Console.WriteLine()** function.  See the **example.cs** file above for an example of how to use these functions.
 
+## Exercises:
+
 ## 00-1:  Hello World
 
 1.  **Initialize a C# Project**
