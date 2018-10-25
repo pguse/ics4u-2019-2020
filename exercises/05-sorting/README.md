@@ -6,38 +6,50 @@ Given a list of numbers called **myList**:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 76 | 10 | 5 | -17 | 34 | 25 | 2 |
 
-If we wanted to sort the list, what steps/**algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort**.
+If we wanted to sort the list, what steps / **algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort** .
 
 ### The Selection Sort \(algorithm\)
 
-The selection sort involves scanning the list from the beginning to find the position of the **minimum **value, then placing the minimum value at the beginning of the list, by **swapping **the two values. This is **repeated **now starting at the next position in the list. Find the **minimum **value in the remainder of the list and swap the two values. Repeat until you have passed through the entire list.
+The selection sort involves scanning the list from the beginning to find the position of the **minimum **value, then placing the minimum value at the beginning of the list, by **swapping** the two values. This is **repeated** now starting at the next position in the list. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire list.
 
-After the first pass through the list the **minimum **value found will be **-17**. The Python code to find the **index **of the **minimum **value in the list is
+After the first pass through the list the **minimum** value found will be **-17**. The C# code to find the **index** of the **minimum **value in the list is
 
+```csharp
+static void Main(string[] args)
+{
+    var myList = new int[] {76,10,5,-17,34,25,2};
+    var minIndex = 0;
+    
+    for(var i=0; i < myList.Length; i++){
+        if (myList[i] < myList[minIndex]){
+            minIndex = i;
+        }
+    }
+    Console.WriteLine(myList[minIndex]);
+}
+
+static void printArray(int[] a){
+    for(var i=0; i < a.Length; i++){
+        Console.Write("{0} ",myList[i]);
+    }
+    Console.WriteLine();
+}
 ```
-myList = [76,10,5,-17,34,25,2]
 
-index = 0
-for i in range( 1, len(myList) ):
-    if myList[i] < myList[index]:
-        index = i
-print( myList[index] )
-```
-
-The print statement is used to check whether we have found the correct minimum value.
+The Console.WriteLine() statement is used to check whether we have found the correct minimum value.
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **76** | 10 | 5 | **-17** | 34 | 25 | 2 |
 
-The values in** position 0 and position 3** will now be swapped. The Python code to swap the two values is
+The values in** position 0 and position 3** will now be swapped. The C# code to swap the two values is
 
-```
-swap = myList[0]
-myList[0] = myList[index]
-myList[index] = swap
+```csharp
+swap = myList[0];
+myList[0] = myList[minIndex];
+myList[index] = swap;
 
-print( myList )
+printArray( myList )
 ```
 
 **Notice **that myList\[0\] must first be saved using another variable so that its value is not_** 'lost'**_** **during the assignment statement in line 2.  The new list looks like this,
