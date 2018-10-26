@@ -28,13 +28,6 @@ static void Main(string[] args)
     }
     Console.WriteLine(myArray[minIndex]);
 }
-
-static void printArray(int[] a){
-    for(var i=0; i < a.Length; i++){
-        Console.Write("{0} ",a[i]);
-    }
-    Console.WriteLine();
-}
 ```
 
 The Console.WriteLine() statement is used to check whether we have found the correct minimum value.  The values in **position 0 and position 3** will now be swapped.
