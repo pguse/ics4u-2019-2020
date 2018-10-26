@@ -103,7 +103,7 @@ static void Main(string[] args)
     int minIndex;
     int swap;
     
-    for(var j=0; i< myArray.Length; j++){
+    for(var j=0; j < myArray.Length; j++){
         minIndex = j;
         for(var i=j+1; i < myArray.Length; i++){
             if (myArray[i] < myArray[minIndex]){
@@ -116,6 +116,7 @@ static void Main(string[] args)
         myArray[minIndex] = swap;
     
         printArray(myArray);
+    }
 }
 
 static void printArray(int[] a){
