@@ -32,7 +32,7 @@ static void Main(string[] args)
 
 static void printArray(int[] a){
     for(var i=0; i < a.Length; i++){
-        Console.Write("{0} ",myList[i]);
+        Console.Write("{0} ",a[i]);
     }
     Console.WriteLine();
 }
