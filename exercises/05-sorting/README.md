@@ -11,7 +11,7 @@ If we wanted to sort the array, what **steps / algorithm** could we use to arran
 ### The Selection Sort \(algorithm\)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
 
-The selection sort involves scanning the array from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the array, by **swapping** the two values. This is **repeated** now starting at the next position in the array. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire array.
+The selection sort involves scanning the array from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the array, by **swapping** the two values. This is **repeated** now starting at the next position in the array. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire array. Click on the image ***(at right)*** to watch a video explaining the selection sort. 
 
 After the first pass through the array the **minimum** value found will be **-17**. The C# code to find the **index** of the **minimum** value in the array is
 
