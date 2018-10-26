@@ -127,5 +127,5 @@ static void printArray(int[] a){
 }
 ```
 
-The **print\( myArray \)** statement simply shows the array after each pass through.  It can be removed once you are convinced that the code works.
+This code can be found in the **Selection** folder.  The **print\( myArray \)** statement simply shows the array after each pass through.  It can be removed once you are convinced that the code works.
 
