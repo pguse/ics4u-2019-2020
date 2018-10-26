@@ -1,19 +1,19 @@
 # Sorting
 
-Given a list of numbers called **myList** with indexes 0 to 6:
+Given an array of numbers called **myArray** with indexes 0 to 6:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 76 | 25 | 5 | -17 | 34 | 10 | 2 |
 
-If we wanted to sort the list, what **steps / algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort** .
+If we wanted to sort the array, what **steps / algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort** .
 
 ### The Selection Sort \(algorithm\)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
 
-The selection sort involves scanning the list from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the list, by **swapping** the two values. This is **repeated** now starting at the next position in the list. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire list.
+The selection sort involves scanning the array from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the array, by **swapping** the two values. This is **repeated** now starting at the next position in the array. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire array.
 
-After the first pass through the list the **minimum** value found will be **-17**. The C# code to find the **index** of the **minimum** value in the list is
+After the first pass through the array the **minimum** value found will be **-17**. The C# code to find the **index** of the **minimum** value in the array is
 
 ```csharp
 static void Main(string[] args)
@@ -96,13 +96,13 @@ myList[index] = swap;
 printArray( myList );
 ```
 
-The new list looks like this after the second pass through,
+The new array looks like this after the second pass through,
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | -17 | **2** | 5 | 76 | 34 | 10 | **25** |
 
-We continue to **repeat** these pieces of code from index 2 to 5, where 5 is the second last index of the list.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
+We continue to **repeat** these pieces of code from index 2 to 5, where 5 is the second last index of the array.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
 
 ```csharp
 static void Main(string[] args)
@@ -134,5 +134,5 @@ static void printArray(int[] a){
 }
 ```
 
-The **print\( myList \)** statement simply shows the list after each pass through.  It can be removed once you are convinced that the code works.
+The **print\( myList \)** statement simply shows the array after each pass through.  It can be removed once you are convinced that the code works.
 
