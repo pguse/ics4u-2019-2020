@@ -75,12 +75,11 @@ To sort the remainder of the list, the same algorithm is followed **starting at 
 
 ```csharp
 minIndex = 1;
-for(var i=2; i < mylist.Length; i++){ in range( 2, len(myArray) ){
+for(var i=2; i < mylist.Length; i++){
     if (myArray[i] < myArray[minIndex]){
         minIndex = i;
     }
 }
-Console.WriteLine( myArray[minIndex] );
 
 swap = myArray[1];
 myArray[1] = myArray[index];
