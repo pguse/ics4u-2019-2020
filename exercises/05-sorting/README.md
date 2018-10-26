@@ -48,11 +48,29 @@ The Console.WriteLine() statement is used to check whether we have found the cor
  The C# code to swap the two values is
  
 ```csharp
-swap = myList[0];
-myList[0] = myList[minIndex];
-myList[minIndex] = swap;
+static void Main(string[] args)
+{
+    var myList = new int[] {76,10,5,-17,34,25,2};
+    var minIndex = 0;
+    
+    for(var i=0; i < myList.Length; i++){
+        if (myList[i] < myList[minIndex]){
+            minIndex = i;
+        }
+    }
+    swap = myList[0];
+    myList[0] = myList[minIndex];
+    myList[minIndex] = swap;
+    
+    printArray(myList);
+}
 
-printArray( myList )
+static void printArray(int[] a){
+    for(var i=0; i < a.Length; i++){
+        Console.Write("{0} ",myList[i]);
+    }
+    Console.WriteLine();
+}
 ```
 
 **Notice** that myList\[0\] must first be saved using another variable so that its value is not **'lost'** during the assignment statement in line 2.  The new list looks like this,
@@ -88,19 +106,32 @@ The new list looks like this after the second pass through,
 We continue to **repeat **these pieces of code from index 2 to 5, where 5 is the second last index of the list.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
 
 ```csharp
-int swap;
-int minIndex;
+static void Main(string[] args)
+{
+    var myList = new int[] {76,10,5,-17,34,25,2};
+    int minIndex;
+    int swap;
+    
+    for(var j=0; i< myList.Length; j++){
+        minIndex = j;
+        for(var i=j+1; i < myList.Length; i++){
+            if (myList[i] < myList[minIndex]){
+                minIndex = i;
+            }
+        }
+        
+        swap = myList[j];
+        myList[j] = myList[minIndex];
+        myList[minIndex] = swap;
+    
+        printArray(myList);
+}
 
-for(var j=0; i< myList.Length; j++){
-    minIndex = j;
-    for(var i=j+1; i < myList.Length; i++){
-          if (myList[i] < myList[index]){
-              minIndex = i;
-          }
-    swap = myList[j];
-    myList[j] = myList[minIndex];
-    myList[minIndex] = swap;
-    printArray(myList);
+static void printArray(int[] a){
+    for(var i=0; i < a.Length; i++){
+        Console.Write("{0} ",myList[i]);
+    }
+    Console.WriteLine();
 }
 ```
 
