@@ -1,8 +1,8 @@
 # Sorting
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo
-" target="_blank"><img src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" 
+alt="Selection Sort" width="240" height="180" border="10" /></a>
 
 
 Given a list of numbers called **myList** with indexes 0 to 6:
