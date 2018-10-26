@@ -11,22 +11,22 @@ If we wanted to sort the array, what **steps / algorithm** could we use to arran
 ### The Selection Sort \(algorithm\)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
 
-The selection sort involves scanning the array from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the array, by **swapping** the two values. This is **repeated** now starting at the next position in the array. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire array. Click on the image ***(at right)*** to watch a video explaining the selection sort. 
+The selection sort involves scanning the array from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the array, by **swapping** the two values. This is **repeated** , now starting at the next position in the array. Find the **minimum** value in the remainder of the array and swap the two values. Repeat until you have passed through the entire array. Click on the image ***(at right)*** to watch a video explaining the selection sort. 
 
 After the first pass through the array the **minimum** value found will be **-17**. The C# code to find the **index** of the **minimum** value in the array is
 
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,25,5,-17,34,10,2};
+    var myArray = new int[] {76,25,5,-17,34,10,2};
     var minIndex = 0;
     
-    for(var i=0; i < myList.Length; i++){
-        if (myList[i] < myList[minIndex]){
+    for(var i=0; i < myArray.Length; i++){
+        if (myArray[i] < myArray[minIndex]){
             minIndex = i;
         }
     }
-    Console.WriteLine(myList[minIndex]);
+    Console.WriteLine(myArray[minIndex]);
 }
 
 static void printArray(int[] a){
@@ -49,19 +49,19 @@ The Console.WriteLine() statement is used to check whether we have found the cor
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,25,5,-17,34, 10,2};
+    var myArray = new int[] {76,25,5,-17,34, 10,2};
     var minIndex = 0;
     
-    for(var i=0; i < myList.Length; i++){
-        if (myList[i] < myList[minIndex]){
+    for(var i=0; i < myArray.Length; i++){
+        if (myArray[i] < myArray[minIndex]){
             minIndex = i;
         }
     }
-    swap = myList[0];
-    myList[0] = myList[minIndex];
-    myList[minIndex] = swap;
+    swap = myArray[0];
+    myArray[0] = myArray[minIndex];
+    myArray[minIndex] = swap;
     
-    printArray(myList);
+    printArray(myArray);
 }
 
 static void printArray(int[] a){
@@ -72,7 +72,7 @@ static void printArray(int[] a){
 }
 ```
 
-**Notice** that myList\[0\] must first be saved using another variable so that its value is not **'lost'** during the assignment statement in line 2.  The new list looks like this,
+**Notice** that myArray\[0\] must first be saved using another variable so that its value is not **'lost'** during the assignment statement in line 2.  The new list looks like this,
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -82,18 +82,18 @@ To sort the remainder of the list, the same algorithm is followed **starting at 
 
 ```csharp
 minIndex = 1;
-for(var i=2; i < mylist.Length; i++){ in range( 2, len(myList) ){
-    if (myList[i] < myList[minIndex]){
+for(var i=2; i < mylist.Length; i++){ in range( 2, len(myArray) ){
+    if (myArray[i] < myArray[minIndex]){
         minIndex = i;
     }
 }
-Console.WriteLine( myList[minIndex] );
+Console.WriteLine( myArray[minIndex] );
 
-swap = myList[1];
-myList[1] = myList[index];
-myList[index] = swap;
+swap = myArray[1];
+myArray[1] = myArray[index];
+myArray[index] = swap;
 
-printArray( myList );
+printArray( myArray );
 ```
 
 The new array looks like this after the second pass through,
@@ -107,23 +107,23 @@ We continue to **repeat** these pieces of code from index 2 to 5, where 5 is the
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,25,5,-17,34,10,2};
+    var myArray = new int[] {76,25,5,-17,34,10,2};
     int minIndex;
     int swap;
     
-    for(var j=0; i< myList.Length; j++){
+    for(var j=0; i< myArray.Length; j++){
         minIndex = j;
-        for(var i=j+1; i < myList.Length; i++){
-            if (myList[i] < myList[minIndex]){
+        for(var i=j+1; i < myArray.Length; i++){
+            if (myArray[i] < myArray[minIndex]){
                 minIndex = i;
             }
         }
         
-        swap = myList[j];
-        myList[j] = myList[minIndex];
-        myList[minIndex] = swap;
+        swap = myArray[j];
+        myArray[j] = myArray[minIndex];
+        myArray[minIndex] = swap;
     
-        printArray(myList);
+        printArray(myArray);
 }
 
 static void printArray(int[] a){
@@ -134,5 +134,5 @@ static void printArray(int[] a){
 }
 ```
 
-The **print\( myList \)** statement simply shows the array after each pass through.  It can be removed once you are convinced that the code works.
+The **print\( myArray \)** statement simply shows the array after each pass through.  It can be removed once you are convinced that the code works.
 
