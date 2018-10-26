@@ -6,7 +6,7 @@ Given a list of numbers called **myList** with indexes 0 to 6:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 76 | 10 | 5 | -17 | 34 | 25 | 2 |
+| 76 | 25 | 5 | -17 | 34 | 10 | 2 |
 
 If we wanted to sort the list, what **steps / algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort** .
 
@@ -19,7 +19,7 @@ After the first pass through the list the **minimum** value found will be **-17*
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,10,5,-17,34,25,2};
+    var myList = new int[] {76,25,5,-17,34,10,2};
     var minIndex = 0;
     
     for(var i=0; i < myList.Length; i++){
@@ -43,14 +43,14 @@ The Console.WriteLine() statement is used to check whether we have found the cor
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **76** | 10 | 5 | **-17** | 34 | 25 | 2 |
+| **76** | 25 | 5 | **-17** | 34 | 10 | 2 |
 
  The C# code to swap the two values is
  
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,10,5,-17,34,25,2};
+    var myList = new int[] {76,25,5,-17,34, 10,2};
     var minIndex = 0;
     
     for(var i=0; i < myList.Length; i++){
@@ -67,7 +67,7 @@ static void Main(string[] args)
 
 static void printArray(int[] a){
     for(var i=0; i < a.Length; i++){
-        Console.Write("{0} ",myList[i]);
+        Console.Write("{0} ",a[i]);
     }
     Console.WriteLine();
 }
@@ -77,7 +77,7 @@ static void printArray(int[] a){
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **-17** | 10 | 5 | **76** | 34 | 25 | 2 |
+| **-17** | 25 | 5 | **76** | 34 | 10 | 2 |
 
 To sort the remainder of the list, the same algorithm is followed **starting at index 1**, so for the next pass the C# code would be,
 
@@ -101,7 +101,7 @@ The new list looks like this after the second pass through,
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| -17 | **2** | 5 | 76 | 34 | 25 | **10** |
+| -17 | **2** | 5 | 76 | 34 | 10 | **25** |
 
 We continue to **repeat **these pieces of code from index 2 to 5, where 5 is the second last index of the list.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
 
