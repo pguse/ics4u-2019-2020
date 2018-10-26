@@ -1,5 +1,3 @@
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
-
 # Sorting
 
 Given a list of numbers called **myList** with indexes 0 to 6:
@@ -11,6 +9,7 @@ Given a list of numbers called **myList** with indexes 0 to 6:
 If we wanted to sort the list, what **steps / algorithm** could we use to arrange the numbers in order from least to greatest? One method is called the **selection sort** .
 
 ### The Selection Sort \(algorithm\)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
 
 The selection sort involves scanning the list from the beginning to find the position of the **minimum** value, then placing the minimum value at the beginning of the list, by **swapping** the two values. This is **repeated** now starting at the next position in the list. Find the **minimum** value in the remainder of the list and swap the two values. Repeat until you have passed through the entire list.
 
