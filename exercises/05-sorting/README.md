@@ -103,12 +103,12 @@ The new list looks like this after the second pass through,
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | -17 | **2** | 5 | 76 | 34 | 10 | **25** |
 
-We continue to **repeat **these pieces of code from index 2 to 5, where 5 is the second last index of the list.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
+We continue to **repeat** these pieces of code from index 2 to 5, where 5 is the second last index of the list.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
 
 ```csharp
 static void Main(string[] args)
 {
-    var myList = new int[] {76,10,5,-17,34,25,2};
+    var myList = new int[] {76,25,5,-17,34,10,2};
     int minIndex;
     int swap;
     
