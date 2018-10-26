@@ -1,6 +1,9 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f8hXR_Hvybo " target="_blank"><img align="right" src="http://img.youtube.com/vi/f8hXR_Hvybo/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
+
 # Sorting
+
 Given a list of numbers called **myList** with indexes 0 to 6:
+
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 76 | 10 | 5 | -17 | 34 | 25 | 2 |
