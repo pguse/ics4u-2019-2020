@@ -1,6 +1,6 @@
 # Sorting
 
-Given a list of numbers called **myList**:
+Given a list of numbers called **myList** with indexes 0 to 6:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
