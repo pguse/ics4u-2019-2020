@@ -94,7 +94,7 @@ The new array looks like this after the second pass through,
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | -17 | **2** | 5 | 76 | 34 | 10 | **25** |
 
-We continue to **repeat** these pieces of code from index 2 to 5, where 5 is the second last index of the array.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
+We continue to **repeat** these pieces of code where minIndex is assigned values from 2 to 5, where 5 is the second last index of the array.  If you look at the pattern of the index values in the code above, it should be evident that we could simply use a second loop as follows,
 
 ```csharp
 static void Main(string[] args)
