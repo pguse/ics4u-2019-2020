@@ -30,6 +30,9 @@ namespace TicTacToe
         }
         
         static bool GameOver(char[] p){
+            // Modify this function so that a win or tie is detected and then
+            // the approprate message is written to the console.  e.g. X wins! or Tie!
+            
             // This loop checks for a win in only the top row
             for(var i =0; i < 3; i++){
                 if (p[i] != '-' && p[i]==p[i+1] && p[i+1]==p[i+2]){
