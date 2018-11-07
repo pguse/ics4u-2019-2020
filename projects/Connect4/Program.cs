@@ -48,7 +48,7 @@ namespace Connect4
             
             // This loop checks for a win in only the bottom row
             for(var i =0; i < 4; i++){
-                if (p[5,i]==p[5,i+1] && p[5,i+1]==p[5,i+2] && p[5,i+2]==p[5,i+3]){
+                if (p[5,i] != '-' && p[5,i]==p[5,i+1] && p[5,i+1]==p[5,i+2] && p[5,i+2]==p[5,i+3]){
                     return true;
                 }
             }
