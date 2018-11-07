@@ -43,10 +43,15 @@ namespace Connect4
         }
         
         static bool GameOver(char[,] p){
-            // Modify this function so that a
-            // win or tie is detected and then
-            // the approprate message is written
-            // to the console.  e.g. X wins! or Tie!
+            // Modify this function so that a win or tie is detected and then
+            // the approprate message is written to the console.  e.g. X wins! or Tie!
+            
+            // This loop checks for a win in only the bottom row
+            for(var i =0; i < 4; i++){
+                if (p[5,i]==p[5,i+1] && p[5,i+1]==p[5,i+2] && p[5,i+2]==p[5,i+3]){
+                    return true;
+                }
+            }
             return false;
         }
         static void Draw(char[,] p){
