@@ -129,3 +129,9 @@ static void printArray(int[] a){
 
 This code can be found in the **Selection** folder.  The **print\( myArray \)** statement simply shows the array after each pass through.  It can be moved outside the loop once you are convinced that the code works.
 
+## Exercises
+
+## 05-1: Bubble Sort
+Write a function called **bubSort(int[] a)** that sorts an array of integers called a.  Watch the following video describes the bubble sort algorithm.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8Kp-8OGwphY " target="_blank"><img align="right" src="http://img.youtube.com/vi/8Kp-8OGwphY/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
