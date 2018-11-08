@@ -14,4 +14,6 @@ In order to move the repository onto your own computer, you should go through th
 
 5. Copy the link that appears by clicking the copy icon ![](images/CopyButton.PNG)
 
-6. Now open a **terminal/command prompt**.  Navigate to the folder where you are storing all of your computer science work.  You might need to use the **cd** command to move between folders ***(or just open the folder using Visual Studio Code)***.  Once you get to the correct folder, make a ***new folder*** called **GitHub**.
+6. Now open a **terminal/command prompt**.  Navigate to the folder where you are storing all of your computer science work.  You might need to use the **cd** command to move between folders ***(or just open the folder using Visual Studio Code)*** .  Once you get to the correct folder, make a ***new folder*** called **Github**.  In the terminal you do this using the **mkdir** command. Now that you are in the **Github** folder, type ***git clone 'paste the address that you copied in step 5 here'*** .  The sequence of commands might look like the following ***(with a different copied address)*** . 
+
+![](images/CommandPrompt.PNG)
