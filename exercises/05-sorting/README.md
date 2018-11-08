@@ -134,6 +134,6 @@ This code can be found in the **Selection** folder.  The **print\( myArray \)** 
 ## 05-1: Bubble Sort
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8Kp-8OGwphY " target="_blank"><img align="right" src="http://img.youtube.com/vi/8Kp-8OGwphY/0.jpg" alt="Selection Sort" width="240" height="180" border="10" /></a>
 
-Write a function called **bubSort(int[] a)** that sorts an array of integers called a.  Watch the following video describes the bubble sort algorithm.
+Write a function called **bubSort(int[] a)** that sorts an array of integers called a.  Click on the image ***(at right)*** to watch a video explaining the bubble sort.
 
 
