@@ -12,7 +12,10 @@ Click [here](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/ar
 
 # Task:
 
-At the moment this project will detect a **Win!** in the ***bottom row*** only and end the game by declaring the winner.  However, there are 8 possible win conditions in Tic-Tac-Toe.  You task is to,
+At the moment this project will detect a **Win!** in the ***bottom row*** only and end the game by declaring the winner.  However, there are 6 rows to deal deal with in Connect 4.  Your task is to,
 
-1.  Modify the **GameOver()** function so that it detects a win using all the 8 possible win conditions.
-2.  Complete the **GameOver()** function by adding code that will detect a tie, end the game, and declare the **Tie!**.
+1.  Modify the **GameOver()** function so that it detects a win in ***all six rows*** .
+2.  Modify the **GameOver()** function so that it detects a win in ***all seven columns*** .  **Suggestion:**  ***Try to detect all possible wins in the first column.***  Once you have tested your program and it works for the first column, extend it so that it works for all columns.
+3.  Modify the **GameOver()** function so that it detects a win along ***a diagonal that goes up to the right*** .  **Suggestion:**  ***Try to detect all possible wins along a diagonal that starts on the bottom row.***  Once you have tested your program and it works for these situations, extend it so that it works for all diagonals that go up to the right.
+4.  Modify the **GameOver()** function so that it detects a win along ***a diagonal that goes down to the right*** .  **Suggestion:**  ***Try to detect all possible wins along a diagonal that ends on the bottom row.***  Once you have tested your program and it works for these situations, extend it so that it works for all diagonals that go down to the right.
+5.  Complete the **GameOver()** function by adding code that will detect a tie, end the game, and declare the **Tie!**.
