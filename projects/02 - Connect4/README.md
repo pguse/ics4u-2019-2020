@@ -9,3 +9,10 @@ This project demonstrates how you might use a **two-dimensional** array in C# to
 ## Note:  Using Multi-Dimensional Arrays in C#
 
 Click [here](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays) to get more detailed information about how to use multi-dimensional arrays in C#.
+
+# Task:
+
+At the moment this project will detect a **Win!** in the ***bottom row*** only and end the game by declaring the winner.  However, there are 8 possible win conditions in Tic-Tac-Toe.  You task is to,
+
+1.  Modify the **GameOver()** function so that it detects a win using all the 8 possible win conditions.
+2.  Complete the **GameOver()** function by adding code that will detect a tie, end the game, and declare the **Tie!**.
