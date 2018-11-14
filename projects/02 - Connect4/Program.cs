@@ -57,6 +57,7 @@ namespace Connect4
             }
             return false;
         }
+        
         static void Draw(char[,] p){
             string row = "| {0} | {1} | {2} | {3} | {4} | {5} | {6} |";
             string bottom = "|---|---|---|---|---|---|---|\n";
