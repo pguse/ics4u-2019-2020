@@ -44,6 +44,6 @@ In order to commit your changes to your repository, type a message in the messag
 
 ## Push/Pull - Synchronize Changes
 
-Now, the final step is to refresh your Github repository by clicking on the 'arrow circle' on the bottom-left corner of the window.  This will synchronize the changes made to your repository, so that your local files and your repository on Github are the same.
+Now, the final step is to refresh your Github repository by clicking on the **'arrow circle'** on the **bottom-left corner** of the window.  This will synchronize the changes made to your repository, so that your local files and your repository on Github are the same.
 
 ![](images/VSCodeSynchronize.png)
