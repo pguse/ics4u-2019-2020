@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\Connect4\\Connect4.csproj",
+  "ProjectFilePath": "c:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\02 - Connect4\\Connect4.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

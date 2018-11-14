@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "c:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\01 - TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "c:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\01 - TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\pguse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\TicTacToe\\obj\\",
+      "outputPath": "c:\\Users\\pguse\\Documents\\Github\\ics4u\\projects\\01 - TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

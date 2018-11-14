@@ -20,3 +20,10 @@ In order to move the repository onto your own computer, you should go through th
 
 # Using Git with Visual Studio Code
 
+When working with a file in **Visual Studio Code**, you normally are using the Explorer tab ***(it looks like two pieces of paper)*** .  Here is a simple "Hello World" Python program, with the Explorer tab selected.
+
+![](images/VSCodeExplorerTab.PNG)
+
+When working with a GitHub repository, in order to update any changes that you make, you must first select the Source Control tab.  Here is the new view of our Python program.
+
+![](images/VSCodeSourceControlTab.PNG)
