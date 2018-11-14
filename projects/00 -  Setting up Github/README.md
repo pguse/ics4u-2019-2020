@@ -20,10 +20,30 @@ In order to move the repository onto your own computer, you should go through th
 
 # Using Git with Visual Studio Code
 
-When working with a file in **Visual Studio Code**, you normally are using the Explorer tab ***(it looks like two pieces of paper)*** .  Here is a simple "Hello World" Python program, with the Explorer tab selected.
+When working with a file in **Visual Studio Code**, you normally are using the **Explorer tab** ***(it looks like two pieces of paper)*** .  Here is a simple "Hello World" Python program, with the **Explorer tab** selected.
 
 ![](images/VSCodeExplorerTab.PNG)
 
-When working with a GitHub repository, in order to update any changes that you make, you must first select the Source Control tab.  Here is the new view of our Python program.
+When working with a GitHub repository, in order to update any changes that you make, you must first select the **Source Control tab** ***(it looks like a fork in the road)*** .  Here is the new view of our Python program.
 
 ![](images/VSCodeSourceControlTab.PNG)
+
+## Stage Changes (Add)
+
+Now click on the plus sign (+) beside the file name in order to stage the changes that you have made to your file.
+
+![](images/VSCodeStageChanges.png)
+
+You may notice that the 'U' beside the filename has been replaced by an 'A' because your file has been added to your repository.
+
+## Commit
+
+In order to commit your changes to your repository, type a message in the message box that concisely describes the changes you made to the file.  Now click the check mark.
+
+![](images/VSCodeCommit.png)
+
+## Push/Pull - Synchronize Changes
+
+Now, the final step is to refresh your Github repository by clicking on the 'arrow circle' on the bottom-left corner of the window.  This will synchronize the changes made to your repository, so that your local files and your repository on Github are the same.
+
+![](images/VSCodeSynchronize.png)
