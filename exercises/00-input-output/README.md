@@ -23,4 +23,4 @@ Create a new folder called **Survey** for your project and then create a new con
     * **How old are you?**
     * **What month were you born in?**
 * Save the answers to the three questions using three variables.
-* Output the answers back into the console.
+* Output the answers back into the console using clear language.
