@@ -2,7 +2,7 @@
 
 ## Exercises
 
-## 01-1: Student Average
+## 01-0: Student Average
 
 1.  In Visual Studio Code, create a folder called **StudentAverage** and then run the command dotnet new console in the terminal/console window. 
 2.  Modify the **Main()** function with the following starter code
@@ -25,4 +25,29 @@ static void Main(string[] args)
 4.  Output the average with **no decimal places**.
 5.  Output all three marks and the average (all with no decimal places) using one Console.WriteLine() method.  Make sure you include words that describe what the numbers represent.
 
+## 01-1: Area of a Circle
+In Visual Studio Code, create a folder called **CircleArea** and then run the command dotnet new console in the terminal/console window.  The user should enter the **radius** of a circle, and the program should output the circle's **area**.  **Note:** Use Math.PI to represent the value of pi.
 
+### For example :
+```
+Radius:  5
+Area:  78.53981633974483
+```
+
+## 01-2: Hypotenuse of a Right-Angled Triangle
+In Visual Studio Code, create a folder called **Hypotenuse** and then run the command dotnet new console in the terminal/console window.  The user should enter the base and height of a right angled-triangle, and the program should output the length of the triangle's hypotenuse.  **Note:** Use Math.Sqrt() to do the square root calculation.
+
+### For example :
+```
+Base:  3
+Height:  4
+Hypotenuse: 5.0
+```
+
+## 00-4: Swap Digits *(using the modulus % operator)*
+In Visual Studio Code, create a folder called **Swap** and then run the command dotnet new console in the terminal/console window.  The user should enter a **two-digit** number (example: 17), and the program should output the **number** with **swapped digits** (example: 71).  
+
+### For example :
+```
+Number:  17
+Swapped Digits:  71
