@@ -26,7 +26,7 @@ static void Main(string[] args)
 5.  Output all three marks and the average (all with no decimal places) using one Console.WriteLine() method.  Make sure you include words that describe what the numbers represent.
 
 ## 01-1: Area of a Circle
-In Visual Studio Code, create a folder called **CircleArea** and then run the command dotnet new console in the terminal/console window.  The user should enter the **radius** of a circle, and the program should output the circle's **area**.  **Note:** Use **Math.PI** to represent the value of pi.
+In Visual Studio Code, create a folder called **CircleArea** and then run the command dotnet new console in the terminal/console window.  The user should enter the **radius** of a circle, and the program should output the circle's **area**.  **Note:** Use **Math.PI** to represent the value of pi and **Math.Pow()** to perform the exponentiation.
 
 ### For example :
 ```
