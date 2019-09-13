@@ -44,7 +44,7 @@ Height:  4
 Hypotenuse: 5.0
 ```
 
-## 00-4: Swap Digits *(using the modulus % operator)*
+## 01-3: Swap Digits *(using the modulus % operator)*
 In Visual Studio Code, create a folder called **Swap** and then run the command dotnet new console in the terminal/console window.  The user should enter a **two-digit** number (example: 17), and the program should output the **number** with **swapped digits** (example: 71).  
 
 ### For example :
