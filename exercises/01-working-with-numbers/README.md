@@ -21,7 +21,7 @@ static void Main(string[] args)
 }
 ```
 
-3.  Modify the program so that the user can **input** any three marks.
+3.  Modify the program so that the user can **input** any three marks.  Use the Convert.ToInt32() method to convert string input to an integer.  For example:  Convert.ToInt32( Console.ReadLine() );
 4.  Output the average with **no decimal places**.
 5.  Output all three marks and the average (all with no decimal places) using one Console.WriteLine() method.  Make sure you include words that describe what the numbers represent.
 
