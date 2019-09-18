@@ -3,11 +3,12 @@
 ## Exercises
 
 ## 02-0: At Least One Odd Number?
-Create a file called **atLeastOneOdd.py**.  Create a program with following specifications:  **Input:**  two integers on the same line separated by spaces, **Output:**  print "YES" if at least one of them is odd and print "NO" otherwise.
+Create a file called **atLeastOneOdd.py**.  Create a program with following specifications:  **Input:**  two integers on different lines, **Output:**  print "YES" if at least one of them is odd and print "NO" otherwise.
 
 ### Example Input:
 ```
-  Enter the numbers: 4 7
+  Enter the number: 4
+  Enter the number: 7
 ```
 ### Expected Output:
 ```
@@ -16,11 +17,13 @@ Create a file called **atLeastOneOdd.py**.  Create a program with following spec
 
 ## 02-1: Ascending Integers?
 
-Create a file called **ascending.py**.  Create a program with the following specifications:  **Input:** three different integers on the same line separated by spaces, **Output:** print YES if they're given in ascending order, print NO otherwise.
+Create a file called **ascending.py**.  Create a program with the following specifications:  **Input:** three different integers on different lines, **Output:** print YES if they're given in ascending order, print NO otherwise.
 
 ### Example Input:
 ```
-  Enter the numbers: 6 10 -46
+  Enter the numbers: 6
+  Enter the numbers: 10
+  Enter the numbers: -46
 ```
 ### Expected Output:
 ```
