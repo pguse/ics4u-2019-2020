@@ -3,7 +3,7 @@
 ## Exercises
 
 ## 02-0: At Least One Odd Number?
-Create a file called **atLeastOneOdd.py**.  Create a program with following specifications:  **Input:**  two integers on different lines, **Output:**  print "YES" if at least one of them is odd and print "NO" otherwise.
+Write a C# program that with following specifications:  **Input:**  two integers on different lines, **Output:**  print "YES" if at least one of them is odd and print "NO" otherwise.
 
 ### Example Input:
 ```
@@ -17,7 +17,7 @@ Create a file called **atLeastOneOdd.py**.  Create a program with following spec
 
 ## 02-1: Ascending Integers?
 
-Create a file called **ascending.py**.  Create a program with the following specifications:  **Input:** three different integers on different lines, **Output:** print YES if they're given in ascending order, print NO otherwise.
+Write a C# program that with the following specifications:  **Input:** three different integers on different lines, **Output:** print YES if they're given in ascending order, print NO otherwise.
 
 ### Example Input:
 ```
