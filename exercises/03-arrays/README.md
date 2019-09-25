@@ -2,8 +2,22 @@
 
 ## Exercises
 
-## 03-1: Student Average
+## 03-0: Student Average
 
-1.  Modify the program so that it stores and averages 8 marks.
-2.  Modify the program so that it allows the user to input the number of marks they want to store.  ***Note:  You will need to declare the marks array after this input line.***
-3.  Now, with an unknown number of marks in the array, you will need to modify how you calculate the average.  ***Note:  You will need to use a loop and the idea of using an accumulator that we used in grade 11 with Python.***
+1.  Create a folder called **StudentAverageArrays**.  Create a C# program that stores and averages 8 marks in an integer array.  The marks will be input by the user.
+2.  Calculate the average, by using a **for-loop**.  ***Note:  You will need to use the idea of using an accumulator that we used in grade 11 with Python.***
+3.  Output both the marks ***(alll on one line)*** and the average, as shown in the example below.
+
+```
+Mark #1: 72
+Mark #2: 85
+Mark #3: 67
+Mark #4: 78
+Mark #5: 90
+Mark #6: 81
+Mark #7: 87
+Mark #8: 75
+
+Marks:  72 85 67 78 90 81 87 75
+Average:  79.4
+```
