@@ -63,7 +63,7 @@ In Visual Studio Code, create a folder called **Divisors** and then run the comm
   12
 ```
 ## 02-4: Perfect Numbers
-In Visual Studio Code, create a folder called **Perfect** and then run the command dotnet new console in the terminal/console window.  The **divisors** of a **perfect number** ***(except for the number itself)*** add up to the number. For example: 6 has divisors 1, 2, 3, 6 and 1 + 2 + 3 = 6. So, 6 is a perfect number. Write a program that determines whether a number is perfect.
+In Visual Studio Code, create a folder called **PerfectNumbers** and then run the command dotnet new console in the terminal/console window.  The **divisors** of a **perfect number** ***(except for the number itself)*** add up to the number. For example: 6 has divisors 1, 2, 3, 6 and 1 + 2 + 3 = 6. So, 6 is a perfect number. Write a program that determines whether a number is perfect.
 
 ### Example Input:
 ```
