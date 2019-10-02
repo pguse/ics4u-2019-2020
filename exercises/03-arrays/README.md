@@ -39,7 +39,7 @@ The values stored in the array (in reverse order) are:
 
 ## 03-2: Copying Elements Array-to-Array in Reverse Order
 
-Create a folder called ArrayCopyReverse.  Create a program in C# Sharp to copy the elements in one array into another array, but in reverse order.  Here is example of how your program might run.
+Create a folder called **ArrayCopyReverse**.  Create a program in C# Sharp to copy the elements in one array into another array, but in reverse order.  Here is example of how your program might run.
 
 ```csharp
 Input the number of elements to be stored in the array :3
@@ -56,7 +56,7 @@ The elements copied into the second array are :
 
 ## 03-03: Maximum and Minimum Elements in an Array
 
-Create a folder called MaxMinElementsArray.  Write a program in C# Sharp to find maximum and minimum element in an array.  Here is example of how your program might run.
+Create a folder called **MaxMinElementsArray*.  Write a program in C# Sharp to find maximum and minimum element in an array.  Here is example of how your program might run.
 ```csharp
 Input the number of elements to be stored in the array :3
 Input 3 elements in the array :
