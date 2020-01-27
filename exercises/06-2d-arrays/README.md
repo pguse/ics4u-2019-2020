@@ -10,19 +10,18 @@ Create a function called **RandomMatrix(int n)** that creates a 2-dimensional ar
 
 ## 03-1: Find
 
-Create a function called **Find(int[] m, int x)** that searches for a value **x** in a matrix (2d-array) **m**.  It should return the position {row, col} if it finds it, otherwise it returns {-1,-1}.
+Create a function called **Find(int[] m, int x)** that searches for a value **x** in a matrix (2-dimensional array) **m**.  It should return the position {row, col} if it finds it, otherwise it returns {-1,-1}.
 
 ## 03-2: Addition
 
-Create a function called **Add(int[] m,int[] n)** that adds two matrices *(integer 2d-arrays)* and returns the new 2d-array. Here is how addition works with matrices.
+Create a function called **Add(int[] m,int[] n)** that adds two matrices *(integer 2d-arrays)* and returns the new 2-dimensional array. Here is how addition works with matrices.
 
+![Addition of Matrices](AdditionMatrices.png)
 
 ## 03-3: Scalar
 
+Create a function called **Scalar(int[] m, int k)** that multiplies every value of a matrix **m** by the value **k** and returns the new 2-dimensional array.
 
+## 03-4: Sum of Neighbours
 
-## 03-4: Product
-
-
-## 03-5: Sum of Neighbours
-
+Create function called **SumNeighbours(int[] m, int row, int col)** that finds the sum of the neighbours of any value in the posiiton (row,col) of the matrix (2-dimensional array).  A neighbour is any value left, right, above, below, or diagonal to the position (row,col).  The function should return the number of neighbours.  **Note:** Consider all values in the bottom row to be neighbours of the top row, and vice versa.  Consider all values in the right column to be neighbours of the left column, and vice versa.
