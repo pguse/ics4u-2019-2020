@@ -24,4 +24,4 @@ Create a function called **Scalar(int[] m, int k)** that multiplies every value 
 
 ## 03-4: Sum of Neighbours
 
-Create function called **SumNeighbours(int[] m, int row, int col)** that finds the sum of the neighbours of any value in the posiiton (row,col) of the matrix (2-dimensional array).  A neighbour is any value left, right, above, below, or diagonal to the position (row,col).  The function should return the number of neighbours.  **Note:** Consider all values in the bottom row to be neighbours of the top row, and vice versa.  Consider all values in the right column to be neighbours of the left column, and vice versa.
+Create function called **SumNeighbours(int[] m, int row, int col)** that finds the sum of the neighbours of any value in the position (row,col) of the matrix (2-dimensional array).  A neighbour is any value left, right, above, below, or diagonal to the position (row,col).  The function should return the number of neighbours.  **Note:** Consider all values in the bottom row to be neighbours of the top row, and vice versa.  Consider all values in the right column to be neighbours of the left column, and vice versa.
