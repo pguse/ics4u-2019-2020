@@ -14,7 +14,7 @@ Create a function called **Find(int[] m, int x)** that searches for a value **x*
 
 ## 03-2: Addition
 
-Create a function called **Add(int[] m,int[] n)** that adds two matrices *(integer 2d-arrays)* and returns the new 2-dimensional array. Here is how addition works with matrices.
+Create a function called **Add(int[] m,int[] n)** that adds two matrices *(integer 2d-arrays)* , of the same size, and returns the new 2-dimensional array. Here is how addition works with matrices.
 
 ![Addition of Matrices](AdditionMatrices.png)
 
