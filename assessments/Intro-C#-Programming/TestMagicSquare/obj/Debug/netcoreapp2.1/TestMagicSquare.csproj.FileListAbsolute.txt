@@ -1,0 +1,11 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\bin\Debug\netcoreapp2.1\TestMagicSquare.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\bin\Debug\netcoreapp2.1\TestMagicSquare.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\bin\Debug\netcoreapp2.1\TestMagicSquare.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\bin\Debug\netcoreapp2.1\TestMagicSquare.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\bin\Debug\netcoreapp2.1\TestMagicSquare.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestMagicSquare\obj\Debug\netcoreapp2.1\TestMagicSquare.pdb

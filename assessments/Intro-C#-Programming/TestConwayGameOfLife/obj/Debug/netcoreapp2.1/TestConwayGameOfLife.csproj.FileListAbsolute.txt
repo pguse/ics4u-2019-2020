@@ -1,0 +1,11 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\bin\Debug\netcoreapp2.1\TestConwayGameOfLife.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\bin\Debug\netcoreapp2.1\TestConwayGameOfLife.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\bin\Debug\netcoreapp2.1\TestConwayGameOfLife.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\bin\Debug\netcoreapp2.1\TestConwayGameOfLife.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\bin\Debug\netcoreapp2.1\TestConwayGameOfLife.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\TestConwayGameOfLife\obj\Debug\netcoreapp2.1\TestConwayGameOfLife.pdb
