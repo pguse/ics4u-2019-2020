@@ -1,0 +1,32 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\ProvincesQuiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.pdb
+C:\Users\pguse\Documents\Github\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.deps.json
+C:\Users\pguse\Documents\Github\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.json
+C:\Users\pguse\Documents\Github\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.dev.json
+C:\Users\pguse\Documents\Github\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\Documents\Github\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.pdb
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.csprojAssemblyReference.cache
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.csproj.CoreCompileInputs.cache
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfoInputs.cache
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfo.cs
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\Documents\Github\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.pdb
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.deps.json
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.json
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.runtimeconfig.dev.json
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\bin\Debug\netcoreapp2.1\ProvincesQuiz.pdb
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.csprojAssemblyReference.cache
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfoInputs.cache
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.AssemblyInfo.cs
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.dll
+C:\Users\pguse\Desktop\12ComputerScience\provinces-quiz\obj\Debug\netcoreapp2.1\ProvincesQuiz.pdb

@@ -1,0 +1,11 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\bin\Debug\netcoreapp2.2\War.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\bin\Debug\netcoreapp2.2\War.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\bin\Debug\netcoreapp2.2\War.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\bin\Debug\netcoreapp2.2\War.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\bin\Debug\netcoreapp2.2\War.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\War\obj\Debug\netcoreapp2.2\War.pdb

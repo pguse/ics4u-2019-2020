@@ -1,0 +1,11 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.pdb

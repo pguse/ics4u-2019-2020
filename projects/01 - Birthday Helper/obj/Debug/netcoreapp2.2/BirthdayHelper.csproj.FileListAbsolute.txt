@@ -1,0 +1,11 @@
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\bin\Debug\netcoreapp2.2\BirthdayHelper.deps.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\bin\Debug\netcoreapp2.2\BirthdayHelper.runtimeconfig.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\bin\Debug\netcoreapp2.2\BirthdayHelper.runtimeconfig.dev.json
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\bin\Debug\netcoreapp2.2\BirthdayHelper.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\bin\Debug\netcoreapp2.2\BirthdayHelper.pdb
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.csprojAssemblyReference.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.csproj.CoreCompileInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.AssemblyInfoInputs.cache
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.AssemblyInfo.cs
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.dll
+C:\Users\pguse\OneDrive - albertcollege.ca\ICS4U\code\BirthdayHelper\obj\Debug\netcoreapp2.2\BirthdayHelper.pdb
